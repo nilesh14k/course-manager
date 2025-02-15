@@ -6,7 +6,7 @@ export default function HomePage() {
     <div className="min-h-screen flex flex-col items-center justify-center px-4 text-center">
       <section className="mb-12">
         <h1 className="text-5xl font-bold mb-4">
-          Welcome to House Of EdTech
+          Welcome to Course Manager
         </h1>
         <p className="text-xl mb-8">
           Unlock your potential with premium courses designed for your professional and personal growth.
