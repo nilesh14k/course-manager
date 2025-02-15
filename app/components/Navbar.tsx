@@ -11,7 +11,7 @@ export default function Navbar() {
   const toggleMenu = () => setMenuOpen(!menuOpen);
 
   return (
-    <header className="fixed w-full z-10 top-0 backdrop-blur-md bg-black/70 text-beige">
+    <header className="fixed w-full z-40 top-0 backdrop-blur-md bg-black/70 text-beige">
       <div className="flex justify-between items-center py-4 px-6 md:px-8">
         <div className="text-2xl font-bold">
           <Link href="/">Course Manager</Link>
